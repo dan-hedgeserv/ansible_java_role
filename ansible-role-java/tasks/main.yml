@@ -1,0 +1,3 @@
+---
+# tasks file for aws-test-win
+- debug: msg="Ansible is working!"
